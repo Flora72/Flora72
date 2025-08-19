@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Florence Ndinda</h1>
 <h3 align="center">A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flora72&label=Profile%20views&color=0e75b6&style=flat" alt="flora72" /> </p>
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flora72" alt="flora72" /></a> </p>
 
