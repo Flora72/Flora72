@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Florence Ndinda</h1>
 <h3 align="center">A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3>
 <br>
-🔭 I’m currently working on Sauti: A survivor-first digital platform<br><br>
+🔭 I’m currently working on Sauti: A survivor-first digital platform https://github.com/Flora72/SAUTI<br><br>
 🌱 I’m currently learning MERN stack<br><br>
-👯 I’m looking to collaborate on Sauti <br><br>
+👯 I’m looking to collaborate on Sauti https://github.com/Flora72/SAUTI <br><br>
 🤝 I’m looking for help with API Integration & Secure Data Handling<br><br>
 👨‍💻 All of my projects are available at https://github.com/Flora72<br><br>
 💬 Ask me about Django,Python,JS, semantic HTML, SQL, and building real-world projects with impact.<br><br>
