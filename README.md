@@ -7,7 +7,7 @@
 🤝 I’m looking for help with API Integration & Secure Data Handling<br>
 👨‍💻 All of my projects are available at https://github.com/Flora72<br>
 💬 Ask me about Django,Python,JS, semantic HTML, SQL, and building real-world projects with impact.<br>
-⁠📫 How to reach me: [zahrahtoe569@gmail.com](mailto:zahrahtoe569@gmail.com) <br>
+📫 How to reach me: [zahratheo569@gmail.com](mailto:zahratheo569@gmail.com)
 ⚡ Fun fact I believe code should be functional and beautiful, like poetry with logic.<br><br>
 
 
