@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Florence Ndinda</h1><br>
+<h1 align="center">Hi 👋, I'm Florence Ndinda.</h1><br>
 <h3 align="center">A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3><br>
 🔭 I’m currently working on Sauti: A survivor-first digital platform https://github.com/Flora72/SAUTI<br>
 🌱 I’m currently learning MERN stack<br>
