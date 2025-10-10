@@ -20,13 +20,13 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flora72&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=5)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false&v=5)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flora72&theme=radical&hide_border=false&layout=compact&langs_count=10)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Flora72&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=6)
+![](https://github-profile-trophy.vercel.app/?username=Flora72&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=5)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
