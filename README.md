@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Florence Ndinda.</h1><br>
 <h3 align="center">A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3><br>
-🔭 I’m currently working on GasGO: LPG Delivery made easy https://github.com/Flora72/SAUTI](https://github.com/Flora72/GasGo<br>
+🔭 I’m currently working on GasGO: LPG Delivery made easy https://github.com/Flora72/GasGo<br>
 🌱 I’m currently learning ML and Data Science<br>
 👯 I’m looking to collaborate on Sauti https://github.com/Flora72/SAUTI <br>
 🤝 I’m looking for help with API Integration & Secure Data Handling<br>
