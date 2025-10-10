@@ -1,8 +1,8 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Florence Ndinda.</h1><br>
 <h3 align="center">A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3><br>
-🔭 I’m currently working on Sauti: A survivor-first digital platform https://github.com/Flora72/SAUTI<br>
-🌱 I’m currently learning MERN stack<br>
+🔭 I’m currently working on GasGO: LPG Delivery made easy https://github.com/Flora72/SAUTI](https://github.com/Flora72/GasGo<br>
+🌱 I’m currently learning ML and Data Science<br>
 👯 I’m looking to collaborate on Sauti https://github.com/Flora72/SAUTI <br>
 🤝 I’m looking for help with API Integration & Secure Data Handling<br>
 👨‍💻 All of my projects are available at https://github.com/Flora72<br>
@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flora72&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=5)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false&v=6)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false&v=5)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flora72&theme=radical&hide_border=false&layout=compact&langs_count=10)
 
