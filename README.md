@@ -1,6 +1,6 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Florence Ndinda.</h1><br>
-<h3 align="center">A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3><br>
+<h1 align="center">💫 About Me: </h1>
+<h1 align="center">Hi 👋, I'm Florence Ndinda.</h1>
+<h3>   A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3><br>
 🔭 I’m currently working on GasGO: LPG Delivery made easy https://github.com/Flora72/GasGo<br>
 🌱 I’m currently learning ML and Data Science<br>
 👯 I’m looking to collaborate on Sauti https://github.com/Flora72/SAUTI <br>
@@ -22,7 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flora72&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=Flora72&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
