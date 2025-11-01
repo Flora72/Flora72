@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Flora72&theme=radical&hide_border=false&include_all_commits=false&count_private=false&v=5)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false&v=5)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false&v=6)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flora72&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=5)
 
 ### ✍️ Random Dev Quote
