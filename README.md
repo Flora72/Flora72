@@ -1,14 +1,15 @@
-<h1 align="center">💫 About Me: </h1>
-<h1 align="center">Hi 👋, I'm Florence Ndinda.</h1>
-<h3>   A passionate Software developer blending code with creativity from Kenya 🇰🇪</h3><br>
-🔭 I’m currently working on GasGO: LPG Delivery made easy https://github.com/Flora72/GasGo<br>
-🌱 I’m currently learning ML and Data Science<br>
-👯 I’m looking to collaborate on Sauti https://github.com/Flora72/SAUTI <br>
-🤝 I’m looking for help with API Integration & Secure Data Handling<br>
-👨‍💻 All of my projects are available at https://github.com/Flora72<br>
-💬 Ask me about Django,Python,JS,HTML, SQL, and building real-world projects with impact.<br>
-📫 How to reach me zahratheo569@gmail.com <br>
-⚡ Fun fact I believe code should be functional and beautiful, like poetry with logic.<br><br>
+<h1 align="center">💫 About Me</h1>
+<h1 align="center">Hi 👋, I'm Florence Ndinda</h1>
+<h3 align="center">A passionate developer blending data, storytelling, and creativity from Kenya 🇰🇪</h3><br>
+
+🔭 I’m currently building <strong>SAUTI</strong>: a community-powered storytelling portal amplifying real voices from Kenya  
+🌱 I’m transitioning into <strong>Data Science</strong> exploring ML, data storytelling, and data visualization  <br>
+🤝 I’m looking for help with <strong>human-centered AI, cognitive computing, and secure data handling</strong>  
+👨‍💻 All of my projects live at <a href="https://github.com/Flora72">github.com/Flora72</a>  
+💬 Ask me about Django, Python, Predictive modelling , MongoDB, and building inclusive, real-world systems  
+📫 Reach me at zahratheo569@gmail.com  
+⚡ Fun fact: I believe code should be functional and beautiful, like poetry with logic. 
+
 
 
 ## 🌐 Socials:
@@ -20,7 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Flora72&theme=radical&hide_border=false&include_all_commits=false&count_private=false&v=5)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false&v=6)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Flora72&theme=radical&hide_border=false&v=5)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flora72&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=5)
 
 ### ✍️ Random Dev Quote
