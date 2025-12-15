@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Florence Ndinda</h1>
 <h3 align="center">A passionate developer blending data, storytelling, and creativity from Kenya 🇰🇪</h3><br>
 
-🔭 I’m currently building <strong>SAUTI</strong>: a community-powered storytelling portal amplifying real voices from Kenya  
+🔭 I’m currently building <strong>VIO</strong>: Voice It Out. Speak. Report. Get Help.
 🌱 I’m transitioning into <strong>Data Science</strong> exploring ML, data storytelling, and data visualization  <br>
 🤝 I’m looking for help with <strong>human-centered AI, cognitive computing, and secure data handling</strong>  
 👨‍💻 All of my projects live at <a href="https://github.com/Flora72">github.com/Flora72</a>  
